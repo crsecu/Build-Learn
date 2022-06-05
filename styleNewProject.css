@@ -1,0 +1,74 @@
+body{
+	
+	background-color: #C27B4E;
+}
+
+.nav-link{
+	color: #E2D4CC;
+}
+
+.nav-link:hover{
+	color: #984D2C;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+	background-color: rgb(226,212,204,0.3);
+}
+
+
+.imgSet{
+	background-image: url('https://images.unsplash.com/photo-1606791429351-0ea30ec4e0da?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80');
+	height: 55rem;
+	background-repeat: no-repeat;
+	margin-top: 15px;
+	
+}
+
+
+h1{
+	color: #3B3015;
+	text-align: center;
+	font-size: 75px;
+}
+
+.motivation{
+	color: #E2D4CC;
+	text-align: right;
+	font-size: 20px;
+
+}
+
+.motivation1{
+	
+	text-align: right;
+	font-size: 18px;
+
+}
+.textMotiv{
+	margin-top: 40px;
+	font-size: 25px;
+}
+
+a{
+	text-decoration: none;
+	color: #E2D4CC;
+	font-size: 20px;
+
+}
+
+a:hover{
+	color: #3B3015;
+}
+
+.card-text{
+	color: #3B3015;
+}
+
+.cardFooter {
+	background-color: #C27B4E;
+}
+
+.card-header{
+	background-color: rgba(255,255,255,0.2);
+	padding: 3px 8px;
+}
+

@@ -1,0 +1,126 @@
+
+body {
+	background: red;
+	animation-name: Santa2;
+  animation-duration: 20s;
+}
+
+
+@keyframes Santa2 {
+  0%   {background-color: #BB2528;}
+  10%  {background-color: #EA4630;}
+  20%  {background-color: #F8B229;}
+  30%  {background-color: #F8B229;}
+  50%  {background-color: #146B3A;}
+  75%  {background-color: #165B33;}
+  100% {background-color: #BB2528;}
+}
+
+
+
+.space {
+	height: 5px;
+}
+
+.spaceEnd {
+	height: 40px;
+}
+
+
+.animation {
+  position: relative;
+  animation-name: animated;
+  animation-duration: 4s;
+}
+
+
+@keyframes animated {
+  0%   {color:red; left:0px; top:0px;}
+  25%  {color:yellow; left:150px; top:0px;} 
+  40%  {color:yellow; left:300px; top:0px;}
+  60%  {color:yellow; left:600px; top:0px;}
+  100%  {color:yellow; left:900px; top:0px;}
+ 
+}
+
+
+
+
+
+
+.Santa {
+  max-height: 100%;
+  max-width: 100%;
+  
+}
+
+
+
+
+a{
+  color: blue;
+
+
+}
+
+hr {
+
+ border-top: 2px dashed green;
+
+}
+
+.footer1 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.footer2{
+  font-size: 13px;
+  
+}
+
+
+.santa-dancing{
+
+  max-height: 100%;
+  max-width: 100%;
+
+}
+
+.pushH1{
+  margin-top: 20px;
+}
+
+.photoPush{
+  margin-bottom: 100px;
+}
+
+a:hover{
+  color: green;
+
+}
+
+.a1 {
+  font-size: 18px;
+  color: yellow;
+}
+
+li{
+  margin-bottom: 4px;
+}
+
+.text2{
+  margin-top: 15px;
+}
+
+.space{
+  margin-top: 1px;
+}
+
+.tree{
+  margin-bottom: 30px;
+}
+
+h4{
+  color: Yellow;
+}
