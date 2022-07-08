@@ -1,0 +1,25 @@
+body{
+	background-color: #FFDFD3;
+	margin: 70px;
+
+}
+
+h1{
+	text-align: center;
+}
+
+.result{
+	margin-top: 20px;
+}
+
+button{
+	margin-top: 12px;
+}
+
+p{
+	font-size: 20px;
+}
+
+input{
+	margin-bottom: 15px;
+}
